@@ -1,5 +1,7 @@
 [![ryw's github stats](https://github-readme-stats.vercel.app/api?username=ryw&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/ryw)
 
+https://ossrank.com/c/189231-ry-walker-coredb
+
 - 🔭 I’m currently working on CoreDB and Cincinnati Ventures
 - 🌱 I’m currently learning Postgres and Rust
 - 💬 Ask me about starting and running venture-backed startups
