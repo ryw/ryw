@@ -3,5 +3,5 @@
 - 🔭 I’m currently working on CoreDB and Cincinnati Ventures
 - 🌱 I’m currently learning Postgres and Rust
 - 💬 Ask me about starting and running venture-backed startups
-- 📫 How to reach me: twitter.com/rywalker
+- 📫 How to reach me: [twitter.com/rywalker](https://twitter.com/rywalker)
 - ⚡ Fun fact: Dropped out of Computer Science at University of Cincinnati
