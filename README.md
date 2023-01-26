@@ -14,6 +14,7 @@
 <picture>
 <source 
   srcset="https://ossrank.com/widget/189231"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 </picture>
 
