@@ -1,5 +1,5 @@
 
-- 🔭 I’m currently working on CoreDB and Cincinnati Ventures
+- 🔭 I’m currently working on Tembo and Cincinnati Ventures
 - 🌱 I’m currently learning Postgres and Rust
 - 💬 Ask me about starting and running venture-backed startups
 - 📫 How to reach me: [twitter.com/rywalker](https://twitter.com/rywalker)
