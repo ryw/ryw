@@ -1,11 +1,9 @@
 
-- 🔭 I’m currently working on Tembo and Cincinnati Ventures
-- 🌱 I’m currently learning Postgres and Rust
-- 💬 Ask me about starting and running venture-backed startups
+- 🔭 I’m currently working on Tembo and Fireroad
 - 📫 How to reach me: [twitter.com/rywalker](https://twitter.com/rywalker)
 - ⚡ Fun fact: Dropped out of Computer Science at University of Cincinnati
 
-[![](https://ossrank.com/widget/189231)](https://ossrank.com/c/189231-ry-walker-coredb)
+[![](https://ossrank.com/widget/189231)](https://ossrank.com/c/189231-ry-walker-tembo)
 
 <picture>
 <source 
@@ -18,5 +16,3 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=ryw&show_icons=true" />
 </picture>
-
-
