@@ -1,6 +1,6 @@
 
 - 🔭 I’m currently working on Tembo and Fireroad
-- 📫 How to reach me: [twitter.com/rywalker](https://twitter.com/rywalker)
+- 📫 How to reach me: [x.com/rywalker](https://x.com/rywalker)
 - ⚡ Fun fact: Dropped out of Computer Science at University of Cincinnati
 
 [![](https://ossrank.com/widget/189231)](https://ossrank.com/c/189231-ry-walker-tembo)
